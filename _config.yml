@@ -8,3 +8,6 @@ theme: minima
 social_links:
   github: claudielarouche
   linkedin: claudie-larouche
+
+include:
+  - assets
