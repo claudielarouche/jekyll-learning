@@ -9,3 +9,5 @@ permalink: /ottawa-adult-dance-classes/
 This is a description of my first project.
 
 ![Project image](https://via.placeholder.com/600x300?text=Project+1)
+
+<script src="{{ "/assets/js/ottawa-adult-dance-classes.js" | relative_url }}"></script>
