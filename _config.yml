@@ -5,9 +5,10 @@ email: claudielarouche@gmail.com
 theme: minima
 
 # Optional: Add social links
-social_links:
-  github: claudielarouche
-  linkedin: claudie-larouche
+minima:
+  social_links:
+    - github: claudielarouche
+    - linkedin: claudie-larouche  
 
 include:
   - assets
