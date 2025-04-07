@@ -9,7 +9,6 @@ minima:
   social_links:
     - github: claudielarouche
     - linkedin: claudie-larouche  
-  include_footer: custom
 
 include:
   - assets
