@@ -1,0 +1,21 @@
+.projects-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.project-card {
+  width: 300px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  background: #fff;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.project-card img {
+  width: 100%;
+  border-radius: 4px;
+}
