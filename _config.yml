@@ -1,3 +1,10 @@
 title: Jekyll Learning Site
 description: Just playing with Jekyll
+author: Claudie
+email: claudielarouche@gmail.com
 theme: minima
+
+# Optional: Add social links
+social_links:
+  github: claudielarouche
+  linkedin: claudie-larouche
