@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ottawa Adult Dance Classes Repository
-permalink: /projects/project-1/
+permalink: /ottawa-adult-dance-classes/
 ---
 
 # Project 1
