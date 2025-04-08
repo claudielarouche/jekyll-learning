@@ -2,9 +2,11 @@
 layout: home
 title: Home
 ---
+<link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+
 Welcome to my Jekyll test site!
 
-# My Projects v2
+# My Projects v3
 
 <div class="projects-gallery">
 
