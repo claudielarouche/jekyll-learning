@@ -4,7 +4,7 @@ title: Home
 ---
 Welcome to my Jekyll test site!
 
-# My Projects
+# My Projects v2
 
 <div class="projects-gallery">
 
