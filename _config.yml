@@ -1,14 +1,8 @@
-title: Jekyll Learning Site
-description: Just playing with Jekyll
-author: Claudie
+title: Claudie Larouche
+description: A website demonstrating my projects and featuring articles I wrote
+author: Claudie Larouche
 email: claudielarouche@gmail.com
 theme: minima
-
-# Optional: Add social links
-minima:
-  social_links:
-    - github: claudielarouche
-    - linkedin: claudie-larouche  
 
 include:
   - assets
