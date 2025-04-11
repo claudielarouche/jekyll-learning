@@ -37,7 +37,7 @@ The welcome message will go here one day :)
 				
 			</form>
 
-div class="mt-3">
+<div class="mt-3">
 				<button class="btn btn-secondary" onclick="clearAllFilters()">
 					Reset filters to default
 				</button>
