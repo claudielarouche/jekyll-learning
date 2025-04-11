@@ -20,15 +20,24 @@
   border-radius: 4px;
 }
 
+/* Make the content area wider on desktops */
 .wrapper {
-  max-width: 1000px;
+  max-width: 1200px; /* You can go up to 1440px if you like */
   margin: 0 auto;
-  padding: 1rem;
+  padding: 1.5rem;
 }
 
-/* Optional: fine-tune padding or font-size */
+/* Still looks nice on tablets */
+@media (max-width: 1024px) {
+  .wrapper {
+    max-width: 90%;
+  }
+}
+
+/* On phones, take up almost the full screen */
 @media (max-width: 768px) {
   .wrapper {
+    max-width: 95%;
     padding: 1rem;
   }
 }
