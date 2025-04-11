@@ -5,6 +5,8 @@ permalink: /articles/temp-article1/
 nav_exclude: true
 ---
 
+<link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+
 # Temp Article 1
 
 This is a description of my first project.
