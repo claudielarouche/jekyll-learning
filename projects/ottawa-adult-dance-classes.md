@@ -4,6 +4,8 @@ title: Ottawa Adult Dance Classes Repository
 permalink: /ottawa-adult-dance-classes/
 ---
 
+<link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+
 # List of Adult Dance Classes in Ottawa
 
 The welcome message will go here one day :)
