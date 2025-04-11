@@ -5,6 +5,7 @@ permalink: /projects/ottawa-adult-dance-classes/
 ---
 
 <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.js"></script>
 <script src="https://cdn.datatables.net/buttons/1.7.1/js/dataTables.buttons.min.js"></script>
 <script src="https://cdn.datatables.net/buttons/1.7.1/js/buttons.colVis.min.js"></script>
