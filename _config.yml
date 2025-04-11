@@ -2,7 +2,7 @@ title: Claudie Larouche
 description: A website demonstrating my projects and featuring articles I wrote
 author: Claudie Larouche
 email: claudielarouche@gmail.com
-remote_theme: jekyll/minima
+theme: minima
 
 include:
   - assets
