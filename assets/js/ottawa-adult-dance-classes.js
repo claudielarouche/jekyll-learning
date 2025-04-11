@@ -11,7 +11,7 @@ function getQueryParam(key) {
 
 window.onload = function() {
 	// Update the path to your CSV file
-	const csvFilePath = 'https://claudielarouche.com/dance/data.csv';
+	const csvFilePath = '/jekyll-learning/assets/csv/ottawa-adult-dance-classes.csv';
 
 	Papa.parse(csvFilePath, {
 		header: true,
