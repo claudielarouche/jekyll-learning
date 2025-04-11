@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ottawa Adult Dance Classes Repository
-permalink: /ottawa-adult-dance-classes/
+permalink: /projects/ottawa-adult-dance-classes/
 ---
 
 <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
