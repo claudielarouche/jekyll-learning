@@ -33,7 +33,7 @@ title: Home
 <div class="projects-gallery">
 
   <div class="project-card">
-    <a href="/jekyll-learning/articles/temp-article-1/">
+    <a href="/jekyll-learning/articles/temp-article1/">
       <img src="https://placehold.co/300x200?text=Project+1" alt="Project 1" />
       <h3>Project 1</h3>
     </a>
