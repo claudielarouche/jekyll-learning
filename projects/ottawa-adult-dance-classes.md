@@ -2,6 +2,7 @@
 layout: page
 title: Ottawa Adult Dance Classes Repository
 permalink: /ottawa-adult-dance-classes/
+nav_exclude: true
 ---
 
 <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
@@ -10,7 +11,7 @@ permalink: /ottawa-adult-dance-classes/
 
 The welcome message will go here one day :)
 
-![Project image](https://via.placeholder.com/600x300?text=Project+1)
+![Project image](https://placehold.co/600x300?text=Project+1)
 
 ## Filters
 
