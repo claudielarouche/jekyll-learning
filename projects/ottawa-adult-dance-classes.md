@@ -2,7 +2,6 @@
 layout: page
 title: Ottawa Adult Dance Classes Repository
 permalink: /ottawa-adult-dance-classes/
-exclude: true
 ---
 
 <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">

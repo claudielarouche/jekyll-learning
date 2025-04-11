@@ -9,3 +9,6 @@ include:
 
 minima:
   hide_site_feed_link: true
+
+header_pages:
+  - about.md
