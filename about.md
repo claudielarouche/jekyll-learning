@@ -20,6 +20,8 @@ Whether it's organizing a dance class directory or inventing a 12-weeks recurrin
 
 This site is where I document my projects, share my thoughts, and encourage others to build what's missing. If you've got an idea and want to make it happen — you're in the right place!
 
+Vous pouvez me parler en français! :) 
+
 ---
 
 📬 Feel free to reach out: [claudielarouche@gmail.com](mailto:claudielarouche@gmail.com)

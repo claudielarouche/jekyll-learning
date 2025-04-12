@@ -115,8 +115,8 @@ title: Home
       <h3>Page Identificator Tool for Indigenous Services Canada (2024)</h3>
     </a>
     <p>Just a tool to help me in my work, I'm probably the only one who needs it ;)</p>
-  </div>
-</div> -->
+  </div>-->
+</div> 
 
 ## My Other projects
 
@@ -142,9 +142,21 @@ title: Home
     <p>Short description of Article 1.</p>
   </div>
 
-
-
 </div>-->
+
+## My Presentations
+
+<div class="projects-gallery">
+
+  <div class="project-card">
+    <a href="https://www.youtube.com/watch?v=p78AW7ZdNGI" target="_blank">
+      <img src="https://img.youtube.com/vi/p78AW7ZdNGI/maxresdefault.jpg" alt="Coding for a cause" />
+      <h3>R-Ladies Ottawa - Coding for a cause with Claudie Larouche</h3>
+    </a>
+    <p>Teaching people how to use ChatGPT to build tools that solve problems (43 mins).</p>
+  </div>
+  
+</div>
 
 ## My Past Projects
 
@@ -157,7 +169,5 @@ title: Home
     </a>
     <p>I used to have a web design side business :) This is my portfolio</p>
   </div>
-
-
 
 </div>
