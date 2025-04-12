@@ -12,7 +12,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/ottawa.html">
-      <img src="/redesign/assets/img/bonus.jpg?text=Project+1" alt="City of Ottawa Drop-Ins" />
+      <img src="/redesign/assets/img/bonus.jpg" alt="City of Ottawa Drop-Ins" />
       <h3>All City of Ottawa Drop-Ins</h3>
     </a>
     <p>Racquet sports, gym sports, swimming, skating, etc.</p>
@@ -20,7 +20,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/earlyon.html">
-      <img src="https://placehold.co/300x200?text=Project+2" alt="Early-On" />
+      <img src="/redesign/assets/img/bonus.jpg" alt="Early-On" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 2.</p>
@@ -28,7 +28,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/swim.html">
-      <img src="https://placehold.co/300x200?text=Project+2" alt="Where to swim?" />
+      <img src="/redesign/assets/img/bonus.jpg" alt="Where to swim?" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 3.</p>
@@ -37,7 +37,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/library.html">
-      <img src="https://placehold.co/300x200?text=Project+2" alt="City of Ottawa Library Programs" />
+      <img src="/redesign/assets/img/bonus.jpg" alt="City of Ottawa Library Programs" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 4.</p>
@@ -49,7 +49,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/skate.html">
-      <img src="https://placehold.co/300x200?text=Project+2" alt="Where to skate?" />
+      <img src="/redesign/assets/img/bonus.jpg" alt="Where to skate?" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 6.</p>
@@ -58,7 +58,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/dance.html">
-      <img src="https://placehold.co/300x200?text=Project+2" alt="City of Ottawa Adult Dance Classes" />
+      <img src="/redesign/assets/img/bonus.jpg" alt="City of Ottawa Adult Dance Classes" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 2.</p>
@@ -66,7 +66,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/school.html">
-      <img src="https://placehold.co/300x200?text=Project+2" alt="List of Schools" />
+      <img src="/redesign/assets/img/bonus.jpg" alt="List of Schools" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 2.</p>
@@ -79,7 +79,15 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/work/lia-calculator.html">
-      <img src="https://placehold.co/300x200?text=Project+2" alt="Leave with Income Averaging Calculator" />
+      <img src="/redesign/assets/img/bonus.jpg" alt="The Efficient Public Servant" />
+      <h3>Project 2</h3>
+    </a>
+    <p>Short description of Project 5.</p>
+  </div>
+  
+  <div class="project-card">
+    <a href="https://claudielarouche.com/work/lia-calculator.html">
+      <img src="/redesign/assets/img/bonus.jpg" alt="Leave with Income Averaging Calculator" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
@@ -87,7 +95,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/work/email.html">
-      <img src="https://placehold.co/300x200?text=Project+2" alt="Email address extractor" />
+      <img src="/redesign/assets/img/bonus.jpg" alt="Email address extractor" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
@@ -95,7 +103,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/acronyms.html">
-      <img src="https://placehold.co/300x200?text=Project+2" alt="Government of Canada Acronym Game" />
+      <img src="/redesign/assets/img/bonus.jpg" alt="Government of Canada Acronym Game" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
@@ -103,7 +111,17 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/work/fncfs/page-id.html">
-      <img src="https://placehold.co/300x200?text=Project+2" alt="Page Identificator Tool for Indigenous Services Canada (2024)" />
+      <img src="/redesign/assets/img/bonus.jpg" alt="Page Identificator Tool for Indigenous Services Canada (2024)" />
+      <h3>Project 2</h3>
+    </a>
+    <p>Short description of Project 5.</p>
+  </div>
+
+## My Other projects
+
+  <div class="project-card">
+    <a href="https://claudielarouche.com/work/fncfs/page-id.html">
+      <img src="/redesign/assets/img/bonus.jpg" alt="Healthy Living Challenge" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
@@ -115,7 +133,7 @@ title: Home
 
   <div class="project-card">
     <a href="/redesign/articles/temp-article1/">
-      <img src="https://placehold.co/300x200?text=Project+1" alt="Project 1" />
+      <img src="/redesign/assets/img/bonus.jpg" alt="Project 1" />
       <h3>Project 1</h3>
     </a>
     <p>Short description of Article 1.</p>
