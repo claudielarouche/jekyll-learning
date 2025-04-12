@@ -11,11 +11,11 @@ title: Home
 <div class="projects-gallery">
 
   <div class="project-card">
-    <a href="/jekyll-learning/projects/ottawa-adult-dance-classes/">
-      <img src="https://placehold.co/300x200?text=Project+1" alt="Project 1" />
-      <h3>Project 1</h3>
+    <a href="/projects/ottawa/">
+      <img src="assets/img/bonus?text=Project+1" alt="City of Ottawa Drop-Ins" />
+      <h3>All City of Ottawa Drop-Ins</h3>
     </a>
-    <p>Short description of Project 1.</p>
+    <p>Racquet sports, gym sports, swimming, skating, etc.</p>
   </div>
 
   <div class="project-card">
