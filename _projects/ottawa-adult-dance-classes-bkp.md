@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ottawa Adult Dance Classes Repository
-permalink: /projects/ottawa-adult-dance-classes/
+permalink: /projects/ottawa-adult-dance-classes-bkp/
 description: A listing of adult dance classes in Ottawa
 tags: [Ottawa]
 image: https://claudielarouche.com/assets/img/dance.jpg
