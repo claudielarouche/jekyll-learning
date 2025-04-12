@@ -2,7 +2,7 @@
 layout: page
 title: Temp Article
 permalink: /articles/temp-article1/
-nav_exclude: true
+published: false
 ---
 
 <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">

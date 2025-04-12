@@ -6,9 +6,6 @@ title: Home
 <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
 
 
-
-## My Projects 
-
 {% assign categories = "Ottawa,Work,Other,Archive" | split: "," %}
 
 {% for category in categories %}
