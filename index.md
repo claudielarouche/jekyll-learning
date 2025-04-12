@@ -116,13 +116,14 @@ title: Home
     </a>
     <p>Just a tool to help me in my work, I'm probably the only one who needs it ;)</p>
   </div>-->
+
 </div> 
 
 ## My Other projects
 
 <div class="projects-gallery">
   <div class="project-card">
-    <a href="https://claudielarouche.com/work/fncfs/page-id.html">
+    <a href="https://claudie-larouche.aweb.page/p/0f99e849-dec6-42b0-89d0-d9649d3f525b">
       <img src="https://claudielarouche.com/assets/img/food.jpg" alt="Healthy Living Challenge" />
       <h3>Healthy Living Challenge</h3>
     </a>
