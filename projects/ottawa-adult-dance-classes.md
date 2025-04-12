@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: project
 title: Ottawa Adult Dance Classes Repository
 permalink: /projects/ottawa-adult-dance-classes/
+description: A listing of adult dance classes in Ottawa
+tags: [Ottawa]
+image: /assets/img/dance.jpg
 ---
 
 <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
