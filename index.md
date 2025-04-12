@@ -26,6 +26,51 @@ title: Home
     <p>Short description of Project 2.</p>
   </div>
 
+  <div class="project-card">
+    <a href="/redesign/projects/ottawa-library-programs/">
+      <img src="https://placehold.co/300x200?text=Project+2" alt="Project 2" />
+      <h3>Project 2</h3>
+    </a>
+    <p>Short description of Project 3.</p>
+  </div>
+  
+
+  <div class="project-card">
+    <a href="/redesign/projects/ottawa-library-programs/">
+      <img src="https://placehold.co/300x200?text=Project+2" alt="Project 2" />
+      <h3>Project 2</h3>
+    </a>
+    <p>Short description of Project 4.</p>
+  </div>
+  
+
+  <div class="project-card">
+    <a href="/redesign/projects/ottawa-library-programs/">
+      <img src="https://placehold.co/300x200?text=Project+2" alt="Project 2" />
+      <h3>Project 2</h3>
+    </a>
+    <p>Short description of Project 5.</p>
+  </div>
+  
+
+  <div class="project-card">
+    <a href="/redesign/projects/ottawa-library-programs/">
+      <img src="https://placehold.co/300x200?text=Project+2" alt="Project 2" />
+      <h3>Project 2</h3>
+    </a>
+    <p>Short description of Project 6.</p>
+  </div>
+  
+
+  <div class="project-card">
+    <a href="/redesign/projects/ottawa-library-programs/">
+      <img src="https://placehold.co/300x200?text=Project+2" alt="Project 2" />
+      <h3>Project 2</h3>
+    </a>
+    <p>Short description of Project 2.</p>
+  </div>
+
+
 </div>
 
 # My Articles
