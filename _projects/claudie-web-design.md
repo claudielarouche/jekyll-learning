@@ -7,5 +7,5 @@ permalink: /projects/claudie-web-design/
 layout: page
 ---
 
-<meta http-equiv="refresh" content="0; url=https://claudielarouche.com/claudie-web-design.html">
-<p>If you are not redirected, <a href="https://claudielarouche.com/claudie-web-design.html">click here</a>.</p>
+<meta http-equiv="refresh" content="0; url=https://claudielarouche.com/claudie-web-design">
+<p>If you are not redirected, <a href="https://claudielarouche.com/claudie-web-design">click here</a>.</p>
