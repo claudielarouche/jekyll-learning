@@ -1,14 +1,11 @@
 ---
-layout: page
-title: Ottawa Library Programs
-permalink: /projects/ottawa-library-programs/
-nav_exclude: true
+title: Ottawa Library Program Aggregator
+description: A tool to browse and filter all public library events in Ottawa
+image: /redesign/assets/img/library.jpg
+tags: [Ottawa]
+permalink: /projects/library/
+layout: project
 ---
 
-<link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
-
-# Ottawa Library Programs
-
-This is a description of my first project.
-
-![Project image](https://placehold.co/600x300?text=Project+1)
+<meta http-equiv="refresh" content="0; url=https://claudielarouche.com/library.html">
+<p>If you are not redirected, <a href="https://claudielarouche.com/library.html">click here</a>.</p>
