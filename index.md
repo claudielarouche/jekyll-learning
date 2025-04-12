@@ -5,6 +5,35 @@ title: Home
 
 <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
 
+
+
+## My Projects 
+
+{% assign categories = "Ottawa,Work,Other,Archive" | split: "," %}
+
+{% for category in categories %}
+  <h2>{{ category }} Projects</h2>
+  <div class="projects-gallery">
+    {% assign filtered = site.projects | where_exp: "item", "item.tags contains category" %}
+    {% if filtered.size > 0 %}
+      {% for project in filtered %}
+        <div class="project-card">
+          <a href="/redesign/{{ project.url }}">
+            <img src="{{ project.image }}" alt="{{ project.title }}" />
+            <h3>{{ project.title }}</h3>
+          </a>
+          <p>{{ project.description }}</p>
+        </div>
+      {% endfor %}
+    {% else %}
+      <p>No projects in this category yet.</p>
+    {% endif %}
+  </div>
+{% endfor %}
+
+
+
+<!-- Old Structure 
 ## My City of Ottawa Projects
 
 <div class="projects-gallery">
@@ -108,13 +137,13 @@ title: Home
     <p>How well do you know your acronyms?</p>
   </div>
 
-<!--  <div class="project-card">
+  <div class="project-card">
     <a href="https://claudielarouche.com/work/fncfs/page-id.html">
       <img src="/redesign/assets/img/bonus.jpg" alt="Page Identificator Tool for Indigenous Services Canada (2024)" />
       <h3>Page Identificator Tool for Indigenous Services Canada (2024)</h3>
     </a>
     <p>Just a tool to help me in my work, I'm probably the only one who needs it ;)</p>
-  </div>-->
+  </div>
 
 </div> 
 
@@ -130,7 +159,7 @@ title: Home
   </div>
 </div>
 
-<!--## My Articles
+## My Articles
 
 <div class="projects-gallery">
 
@@ -142,7 +171,7 @@ title: Home
     <p>Short description of Article 1.</p>
   </div>
 
-</div>-->
+</div>
 
 ## My Presentations
 
@@ -170,28 +199,6 @@ title: Home
     <p>I used to have a web design side business :) This is my portfolio</p>
   </div>
 
-</div>
+</div> 
 
-## My Project Loop
-
-{% assign categories = "Ottawa,Work,Other,Archive" | split: "," %}
-
-{% for category in categories %}
-  <h2>{{ category }} Projects</h2>
-  <div class="project-gallery">
-    {% assign filtered = site.projects | where_exp: "item", "item.tags contains category" %}
-    {% if filtered.size > 0 %}
-      {% for project in filtered %}
-        <div class="project-card">
-          <a href="/redesign/{{ project.url }}">
-            <img src="{{ project.image }}" alt="{{ project.title }}" />
-            <h3>{{ project.title }}</h3>
-          </a>
-          <p>{{ project.description }}</p>
-        </div>
-      {% endfor %}
-    {% else %}
-      <p>No projects in this category yet.</p>
-    {% endif %}
-  </div>
-{% endfor %}
+-->
