@@ -20,7 +20,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/earlyon.html">
-      <img src="/redesign/assets/img/bonus.jpg" alt="Early-On" />
+      <img src="/redesign/assets/img/kids.png" alt="Early-On Playgroup Repository" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 2.</p>
@@ -87,7 +87,7 @@ title: Home
   
   <div class="project-card">
     <a href="https://claudielarouche.com/work/lia-calculator.html">
-      <img src="/redesign/assets/img/bonus.jpg" alt="Leave with Income Averaging Calculator" />
+      <img src="/redesign/assets/img/browser.png" alt="Leave with Income Averaging Calculator" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
@@ -95,7 +95,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/work/email.html">
-      <img src="/redesign/assets/img/bonus.jpg" alt="Email address extractor" />
+      <img src="/redesign/assets/img/letters.jpg" alt="Email address extractor" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
@@ -121,7 +121,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/work/fncfs/page-id.html">
-      <img src="/redesign/assets/img/bonus.jpg" alt="Healthy Living Challenge" />
+      <img src="/redesign/assets/img/food.jpg" alt="Healthy Living Challenge" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
