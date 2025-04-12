@@ -28,7 +28,7 @@ title: Home
   </div>
 {% endfor %}
 
-## My Presentations
+## Presentations
 
 <div class="projects-gallery">
 
