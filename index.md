@@ -12,7 +12,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/ottawa.html">
-      <img src="/assets/img/bonus?text=Project+1" alt="City of Ottawa Drop-Ins" />
+      <img src="/redesign/assets/img/bonus.jpg?text=Project+1" alt="City of Ottawa Drop-Ins" />
       <h3>All City of Ottawa Drop-Ins</h3>
     </a>
     <p>Racquet sports, gym sports, swimming, skating, etc.</p>
@@ -79,7 +79,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/work/fncfs/page-id.html">
-      <img src="https://placehold.co/300x200?text=Project+2" alt="Page Identificator" />
+      <img src="https://placehold.co/300x200?text=Project+2" alt="Page Identificator Tool for Indigenous Services Canada (2024)" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
