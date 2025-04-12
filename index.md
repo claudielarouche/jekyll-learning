@@ -64,6 +64,14 @@ title: Home
     <p>Short description of Project 2.</p>
   </div>
 
+  <div class="project-card">
+    <a href="https://claudielarouche.com/school.html">
+      <img src="https://placehold.co/300x200?text=Project+2" alt="List of Schools" />
+      <h3>Project 2</h3>
+    </a>
+    <p>Short description of Project 2.</p>
+  </div>
+
 
 </div>
 
@@ -72,6 +80,22 @@ title: Home
   <div class="project-card">
     <a href="https://claudielarouche.com/work/lia-calculator.html">
       <img src="https://placehold.co/300x200?text=Project+2" alt="Leave with Income Averaging Calculator" />
+      <h3>Project 2</h3>
+    </a>
+    <p>Short description of Project 5.</p>
+  </div>
+
+  <div class="project-card">
+    <a href="https://claudielarouche.com/work/email.html">
+      <img src="https://placehold.co/300x200?text=Project+2" alt="Email address extractor" />
+      <h3>Project 2</h3>
+    </a>
+    <p>Short description of Project 5.</p>
+  </div>
+
+  <div class="project-card">
+    <a href="https://claudielarouche.com/acronyms.html">
+      <img src="https://placehold.co/300x200?text=Project+2" alt="Government of Canada Acronym Game" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
