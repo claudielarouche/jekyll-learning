@@ -76,7 +76,7 @@ title: Home
 </div>
 
 ## My Work Projects
-
+<div class="projects-gallery">
   <div class="project-card">
     <a href="https://claudielarouche.com/work/lia-calculator.html">
       <img src="/redesign/assets/img/bonus.jpg" alt="The Efficient Public Servant" />
@@ -116,9 +116,9 @@ title: Home
     </a>
     <p>Short description of Project 5.</p>
   </div>
-
+</div>
 ## My Other projects
-
+<div class="projects-gallery">
   <div class="project-card">
     <a href="https://claudielarouche.com/work/fncfs/page-id.html">
       <img src="/redesign/assets/img/food.jpg" alt="Healthy Living Challenge" />
@@ -126,7 +126,7 @@ title: Home
     </a>
     <p>Short description of Project 5.</p>
   </div>
-
+</div>
 ## My Articles
 
 <div class="projects-gallery">
