@@ -109,15 +109,17 @@ title: Home
     <p>How well do you know your acronyms?</p>
   </div>
 
-  <div class="project-card">
+<!--  <div class="project-card">
     <a href="https://claudielarouche.com/work/fncfs/page-id.html">
       <img src="/redesign/assets/img/bonus.jpg" alt="Page Identificator Tool for Indigenous Services Canada (2024)" />
       <h3>Page Identificator Tool for Indigenous Services Canada (2024)</h3>
     </a>
     <p>Just a tool to help me in my work, I'm probably the only one who needs it ;)</p>
   </div>
-</div>
+</div> -->
+
 ## My Other projects
+
 <div class="projects-gallery">
   <div class="project-card">
     <a href="https://claudielarouche.com/work/fncfs/page-id.html">
