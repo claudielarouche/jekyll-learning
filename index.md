@@ -178,7 +178,7 @@ title: Home
 
 {% for category in categories %}
   <h2>{{ category }} Projects</h2>
-  <div class="project-list">
+  <div class="project-gallery">
     {% assign filtered = site.projects | where_exp: "item", "item.tags contains category" %}
     {% if filtered.size > 0 %}
       {% for project in filtered %}
