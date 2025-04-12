@@ -1,6 +1,6 @@
 ---
 title: Acronyms Game
-description: To be completed
+description: How well do you know your acronyms?
 image: https://claudielarouche.com/assets/img/acronyms.jpg
 tags: [Other]
 permalink: /projects/acronym-game/

@@ -1,6 +1,6 @@
 ---
 title: Leave with Income Averaging Calculator
-description: To be completed
+description: A calculator to verify how much Leave with Income Averaging might cost you.
 image: https://claudielarouche.com/assets/img/browser.png
 tags: [Work]
 permalink: /projects/lia-calculator/

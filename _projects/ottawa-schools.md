@@ -1,6 +1,6 @@
 ---
 title: City of Ottawa Schools
-description: To be completed
+description: A list of allt he schools in Ottawa!
 image: https://claudielarouche.com/assets/img/school.jpg
 tags: [Ottawa]
 permalink: /projects/ottawa-schools/

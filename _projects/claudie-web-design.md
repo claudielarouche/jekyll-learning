@@ -1,6 +1,6 @@
 ---
 title: Claudie Web Design
-description: To be completed
+description: I used to have a web design side business :) This is my portfolio
 image: https://claudielarouche.com/assets/img/web.png
 tags: [Archive]
 permalink: /projects/claudie-web-design/

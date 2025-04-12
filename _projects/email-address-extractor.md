@@ -1,6 +1,6 @@
 ---
 title: Email Address Extractor
-description: To be completed
+description: Paste any paragrah of text, let the tool extract all the email addresses for you
 image: https://claudielarouche.com/assets/img/letters.jpg
 tags: [Work]
 permalink: /projects/email-address-extractor/

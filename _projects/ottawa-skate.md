@@ -1,6 +1,6 @@
 ---
 title: City of Ottawa Skating Schedule
-description: To be completed
+description: A subset of the City of Ottawa Drop-Ins, but just for skating!
 image: https://claudielarouche.com/assets/img/skating.jpg
 tags: [Ottawa]
 permalink: /projects/ottawa-skate/

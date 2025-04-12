@@ -1,6 +1,6 @@
 ---
 title: City of Ottawa Swimming Schedule
-description: To be completed
+description: A subset of the City of Ottawa Drop-Ins, but just for swimming!
 image: https://claudielarouche.com/assets/img/swim.jpg
 tags: [Ottawa]
 permalink: /projects/ottawa-swim/

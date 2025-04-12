@@ -1,6 +1,6 @@
 ---
 title: Efficient Public Servant
-description: To be completed
+description: Ideas to be more efficient at work.
 image: https://claudielarouche.com/assets/img/productive-person.jpg
 tags: [Work]
 permalink: /projects/efficient-public-servant/
