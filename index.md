@@ -12,7 +12,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/ottawa.html">
-      <img src="/redesign/assets/img/bonus.jpg" alt="City of Ottawa Drop-Ins" />
+      <img src="https://claudielarouche.com/assets/img/bonus.jpg" alt="City of Ottawa Drop-Ins" />
       <h3>All City of Ottawa Drop-Ins</h3>
     </a>
     <p>Racquet sports, gym sports, swimming, skating, etc.</p>
@@ -20,7 +20,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/earlyon.html">
-      <img src="/redesign/assets/img/kids.png" alt="Early-On Playgroup Repository" />
+      <img src="https://claudielarouche.com/assets/img/kids.png" alt="Early-On Playgroup Repository" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 2.</p>
@@ -28,7 +28,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/swim.html">
-      <img src="/redesign/assets/img/bonus.jpg" alt="Where to swim?" />
+      <img src="https://claudielarouche.com/assets/img/swim.jpg" alt="Where to swim?" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 3.</p>
@@ -37,7 +37,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/library.html">
-      <img src="/redesign/assets/img/bonus.jpg" alt="City of Ottawa Library Programs" />
+      <img src="https://claudielarouche.com/assets/img/library.jpg" alt="City of Ottawa Library Programs" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 4.</p>
@@ -49,7 +49,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/skate.html">
-      <img src="/redesign/assets/img/bonus.jpg" alt="Where to skate?" />
+      <img src="https://claudielarouche.com/assets/img/skating.jpg" alt="Where to skate?" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 6.</p>
@@ -58,7 +58,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/dance.html">
-      <img src="/redesign/assets/img/bonus.jpg" alt="City of Ottawa Adult Dance Classes" />
+      <img src="https://claudielarouche.com/assets/img/dance.jpg" alt="City of Ottawa Adult Dance Classes" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 2.</p>
@@ -66,7 +66,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/school.html">
-      <img src="/redesign/assets/img/bonus.jpg" alt="List of Schools" />
+      <img src="https://claudielarouche.com/assets/img/school.jpg" alt="List of Schools" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 2.</p>
@@ -79,7 +79,7 @@ title: Home
 <div class="projects-gallery">
   <div class="project-card">
     <a href="https://claudielarouche.com/work/lia-calculator.html">
-      <img src="/redesign/assets/img/bonus.jpg" alt="The Efficient Public Servant" />
+      <img src="https://claudielarouche.com/assets/img/productive-person.jpg" alt="The Efficient Public Servant" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
@@ -87,7 +87,7 @@ title: Home
   
   <div class="project-card">
     <a href="https://claudielarouche.com/work/lia-calculator.html">
-      <img src="/redesign/assets/img/browser.png" alt="Leave with Income Averaging Calculator" />
+      <img src="https://claudielarouche.com/assets/img/browser.png" alt="Leave with Income Averaging Calculator" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
@@ -95,7 +95,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/work/email.html">
-      <img src="/redesign/assets/img/letters.jpg" alt="Email address extractor" />
+      <img src="https://claudielarouche.com/assets/img/letters.jpg" alt="Email address extractor" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
@@ -103,7 +103,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/acronyms.html">
-      <img src="/redesign/assets/img/bonus.jpg" alt="Government of Canada Acronym Game" />
+      <img src="https://claudielarouche.com/assets/img/acronyms.jpg" alt="Government of Canada Acronym Game" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
@@ -121,13 +121,14 @@ title: Home
 <div class="projects-gallery">
   <div class="project-card">
     <a href="https://claudielarouche.com/work/fncfs/page-id.html">
-      <img src="/redesign/assets/img/food.jpg" alt="Healthy Living Challenge" />
+      <img src="https://claudielarouche.com/assets/img/food.jpg" alt="Healthy Living Challenge" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
   </div>
 </div>
-## My Articles
+
+<!--## My Articles
 
 <div class="projects-gallery">
 
@@ -135,6 +136,22 @@ title: Home
     <a href="/redesign/articles/temp-article1/">
       <img src="/redesign/assets/img/bonus.jpg" alt="Project 1" />
       <h3>Project 1</h3>
+    </a>
+    <p>Short description of Article 1.</p>
+  </div>
+
+
+
+</div>-->
+
+## My Past Projects
+
+<div class="projects-gallery">
+
+  <div class="project-card">
+    <a href="https://claudielarouche.com/claudie-web-design.html">
+      <img src="https://claudielarouche.com/assets/img/web.png" alt="Project 1" />
+      <h3>Claudie Web Design</h3>
     </a>
     <p>Short description of Article 1.</p>
   </div>
