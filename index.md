@@ -77,6 +77,14 @@ title: Home
     <p>Short description of Project 5.</p>
   </div>
 
+  <div class="project-card">
+    <a href="https://claudielarouche.com/work/fncfs/page-id.html">
+      <img src="https://placehold.co/300x200?text=Project+2" alt="Page Identificator" />
+      <h3>Project 2</h3>
+    </a>
+    <p>Short description of Project 5.</p>
+  </div>
+
 ## My Articles
 
 <div class="projects-gallery">
