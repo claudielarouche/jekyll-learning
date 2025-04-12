@@ -5,6 +5,7 @@ image: https://claudielarouche.com/assets/img/web.png
 tags: [Archive]
 permalink: /projects/claudie-web-design/
 layout: page
+published: false
 ---
 
 <meta http-equiv="refresh" content="0; url=https://claudielarouche.com/claudie-web-design">
