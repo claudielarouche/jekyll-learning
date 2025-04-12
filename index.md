@@ -20,25 +20,25 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/earlyon.html">
-      <img src="https://claudielarouche.com/assets/img/kids.png" alt="Early-On Playgroup Repository" />
-      <h3>Project 2</h3>
+      <img src="https://claudielarouche.com/assets/img/kids.png" alt="Early ON Playgroup Repository" />
+      <h3>Early ON Playgroup Repository</h3>
     </a>
-    <p>Short description of Project 2.</p>
+    <p>This used to provide a listing of all the playgroups in Ottawa. You can now use the <a href="https://www.incredibleplaygroupfinder.ca/en" target="_blank">Incredible Playgroup Finder</a></p>
   </div>
 
   <div class="project-card">
     <a href="https://claudielarouche.com/swim.html">
       <img src="https://claudielarouche.com/assets/img/swim.jpg" alt="Where to swim?" />
-      <h3>Project 2</h3>
+      <h3>Where to swim?</h3>
     </a>
-    <p>Short description of Project 3.</p>
+    <p>A subset of the City of Ottawa Drop-Ins, but just for swimming!</p>
   </div>
   
 
   <div class="project-card">
     <a href="https://claudielarouche.com/library.html">
       <img src="https://claudielarouche.com/assets/img/library.jpg" alt="City of Ottawa Library Programs" />
-      <h3>Project 2</h3>
+      <h3>City of Ottawa Library Programs</h3>
     </a>
     <p>Short description of Project 4.</p>
   </div>
@@ -50,26 +50,26 @@ title: Home
   <div class="project-card">
     <a href="https://claudielarouche.com/skate.html">
       <img src="https://claudielarouche.com/assets/img/skating.jpg" alt="Where to skate?" />
-      <h3>Project 2</h3>
+      <h3>Where to skate?</h3>
     </a>
-    <p>Short description of Project 6.</p>
+    <p>A subset of the City of Ottawa Drop-Ins, but just for skating!</p>
   </div>
   
 
   <div class="project-card">
     <a href="https://claudielarouche.com/dance.html">
       <img src="https://claudielarouche.com/assets/img/dance.jpg" alt="City of Ottawa Adult Dance Classes" />
-      <h3>Project 2</h3>
+      <h3>City of Ottawa Adult Dance Classes</h3>
     </a>
-    <p>Short description of Project 2.</p>
+    <p>A repository of all the adult dance classes in Ottawa</p>
   </div>
 
   <div class="project-card">
     <a href="https://claudielarouche.com/school.html">
       <img src="https://claudielarouche.com/assets/img/school.jpg" alt="List of Schools" />
-      <h3>Project 2</h3>
+      <h3>List of Schools</h3>
     </a>
-    <p>Short description of Project 2.</p>
+    <p>A list of allt he schools in Ottawa!</p>
   </div>
 
 
@@ -80,41 +80,41 @@ title: Home
   <div class="project-card">
     <a href="https://claudielarouche.com/work/lia-calculator.html">
       <img src="https://claudielarouche.com/assets/img/productive-person.jpg" alt="The Efficient Public Servant" />
-      <h3>Project 2</h3>
+      <h3>The Efficient Public Servant</h3>
     </a>
-    <p>Short description of Project 5.</p>
+    <p>Ideas to be more efficient at work.</p>
   </div>
   
   <div class="project-card">
     <a href="https://claudielarouche.com/work/lia-calculator.html">
       <img src="https://claudielarouche.com/assets/img/browser.png" alt="Leave with Income Averaging Calculator" />
-      <h3>Project 2</h3>
+      <h3>Leave with Income Averaging Calculator</h3>
     </a>
-    <p>Short description of Project 5.</p>
+    <p>A calculator to verify how much Leave with Income Averaging might cost you.</p>
   </div>
 
   <div class="project-card">
     <a href="https://claudielarouche.com/work/email.html">
       <img src="https://claudielarouche.com/assets/img/letters.jpg" alt="Email address extractor" />
-      <h3>Project 2</h3>
+      <h3>Email Address Extractor</h3>
     </a>
-    <p>Short description of Project 5.</p>
+    <p>Paste any paragrah of text, let the tool extract all the email addresses for you</p>
   </div>
 
   <div class="project-card">
     <a href="https://claudielarouche.com/acronyms.html">
       <img src="https://claudielarouche.com/assets/img/acronyms.jpg" alt="Government of Canada Acronym Game" />
-      <h3>Project 2</h3>
+      <h3>Government of Canada Acronym Game</h3>
     </a>
-    <p>Short description of Project 5.</p>
+    <p>How well do you know your acronyms?</p>
   </div>
 
   <div class="project-card">
     <a href="https://claudielarouche.com/work/fncfs/page-id.html">
       <img src="/redesign/assets/img/bonus.jpg" alt="Page Identificator Tool for Indigenous Services Canada (2024)" />
-      <h3>Project 2</h3>
+      <h3>Page Identificator Tool for Indigenous Services Canada (2024)</h3>
     </a>
-    <p>Short description of Project 5.</p>
+    <p>Just a tool to help me in my work, I'm probably the only one who needs it ;)</p>
   </div>
 </div>
 ## My Other projects
@@ -122,9 +122,9 @@ title: Home
   <div class="project-card">
     <a href="https://claudielarouche.com/work/fncfs/page-id.html">
       <img src="https://claudielarouche.com/assets/img/food.jpg" alt="Healthy Living Challenge" />
-      <h3>Project 2</h3>
+      <h3>Healthy Living Challenge</h3>
     </a>
-    <p>Short description of Project 5.</p>
+    <p>52 challenges over the course of an entire year. </p>
   </div>
 </div>
 
@@ -149,11 +149,11 @@ title: Home
 <div class="projects-gallery">
 
   <div class="project-card">
-    <a href="https://claudielarouche.com/claudie-web-design.html">
+    <a href="https://claudielarouche.com/claudie-web-design.html" target="_blank">
       <img src="https://claudielarouche.com/assets/img/web.png" alt="Project 1" />
       <h3>Claudie Web Design</h3>
     </a>
-    <p>Short description of Article 1.</p>
+    <p>I used to have a web design side business :) This is my portfolio</p>
   </div>
 
 
