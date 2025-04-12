@@ -11,15 +11,15 @@ title: Home
 <div class="projects-gallery">
 
   <div class="project-card">
-    <a href="/projects/ottawa/">
-      <img src="assets/img/bonus?text=Project+1" alt="City of Ottawa Drop-Ins" />
+    <a href="/redesign/projects/ottawa/">
+      <img src="/redesign/assets/img/bonus?text=Project+1" alt="City of Ottawa Drop-Ins" />
       <h3>All City of Ottawa Drop-Ins</h3>
     </a>
     <p>Racquet sports, gym sports, swimming, skating, etc.</p>
   </div>
 
   <div class="project-card">
-    <a href="/jekyll-learning/projects/ottawa-library-programs/">
+    <a href="/redesign/projects/ottawa-library-programs/">
       <img src="https://placehold.co/300x200?text=Project+2" alt="Project 2" />
       <h3>Project 2</h3>
     </a>
@@ -33,7 +33,7 @@ title: Home
 <div class="projects-gallery">
 
   <div class="project-card">
-    <a href="/jekyll-learning/articles/temp-article1/">
+    <a href="/redesign/articles/temp-article1/">
       <img src="https://placehold.co/300x200?text=Project+1" alt="Project 1" />
       <h3>Project 1</h3>
     </a>
