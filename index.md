@@ -79,7 +79,7 @@ title: Home
 
   <div class="project-card">
     <a href="https://claudielarouche.com/work/lia-calculator.html">
-      <img src="/redesign/assets/img/productive-person.jpg" alt="The Efficient Public Servant" />
+      <img src="/redesign/assets/img/bonus.jpg" alt="The Efficient Public Servant" />
       <h3>Project 2</h3>
     </a>
     <p>Short description of Project 5.</p>
