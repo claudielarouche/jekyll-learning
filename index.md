@@ -12,7 +12,7 @@ title: Home
 
   <div class="project-card">
     <a href="/redesign/projects/ottawa/">
-      <img src="/redesign/assets/img/bonus?text=Project+1" alt="City of Ottawa Drop-Ins" />
+      <img src="/assets/img/bonus?text=Project+1" alt="City of Ottawa Drop-Ins" />
       <h3>All City of Ottawa Drop-Ins</h3>
     </a>
     <p>Racquet sports, gym sports, swimming, skating, etc.</p>
