@@ -16,3 +16,5 @@ header_pages:
 collections:
   projects:
     output: true
+  csps:
+    output: true
