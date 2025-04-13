@@ -3,7 +3,7 @@ layout: page
 title: CSPS (Canada School of Public Service) Video Summaries
 permalink: /projects/csps-videos/
 description: A list of CSPS Youtube video and a summary of each
-tags: [Ottawa]
+tags: [Work]
 image: https://claudielarouche.com/assets/img/csps_summary.jpg
 published: true
 ---
