@@ -1,5 +1,5 @@
 ---
-title: Sir Michael Barber: Results and Delivery Unit: Lessons for Canada
+title: Sir Michael Barber - Results and Delivery Unit - Lessons for Canada
 description: Sir Michael Barber discusses the motivation, challenges, and methods of establishing the Results and Delivery Unit in the UK government and reflects on its potential application within Canada's federal system
 video_url: https://www.youtube.com/watch?v=JogXHgPXhVs
 date: 2016-05-26
