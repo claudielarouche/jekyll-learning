@@ -6,27 +6,4 @@ layout: page
   📚 <a href="{{ '/projects/csps/' | relative_url }}">Back to all CSPS summaries</a>
 </div>
 
-<div class="csps-meta" style="margin-bottom: 2rem;">
-    <h2 style="margin-bottom: 0.5rem;">
-      <a href="{{ page.video_url }}" target="_blank" rel="noopener noreferrer">
-        {{ page.title }}
-      </a>
-    </h2>
-  
-    {% if page.date %}
-      <p><strong>Published:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
-    {% endif %}
-  
-    {% if page.tags %}
-      <p><strong>Tags:</strong>
-        {% for tag in page.tags %}
-          <span class="tag" style="display: inline-block; background: #e0f0ff; padding: 0.2em 0.5em; border-radius: 3px; margin-right: 5px; font-size: 0.85em;">
-            {{ tag }}
-          </span>
-        {% endfor %}
-      </p>
-    {% endif %}
-  </div>
-  
-
 {{ content }}
