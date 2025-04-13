@@ -17,7 +17,6 @@ collections:
   projects:
     output: true
 
-collections:
   csps:
     output: true
     permalink: /csps/:name/
