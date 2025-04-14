@@ -16,13 +16,14 @@ Welcome! Below you will find concise summaries of the highlights and insights fr
 
 Although I am a public servant myself, please note that I am not affiliated with the School, and the summaries are independently created and not officially sanctioned by the Canada School of Public Service.
 
+<!-- The line below is to eventually sort by tags possibly -->
 {% assign all_tags = site.csps | map: "tags" | join: "," | split: "," | uniq | sort %}
 
 <ul>
-  {% assign sorted = site.csps | sort: "title" %}
-  {% for summary in sorted %}
+  {% assign sorted_csps = site.csps | sort: "date" | reverse %}
+  {% for summary in sorted_csps %}
     <li>
-      <a href="/redesign{{ summary.url }}">{{ summary.date }}-{{ summary.title }}</a><br>
+      <a href="{{ summary.url }}">{{ summary.date | date: "%Y-%m-%d" }} – {{ summary.title }}</a><br>
       <small>{{ summary.description }}</small>
     </li>
   {% endfor %}
